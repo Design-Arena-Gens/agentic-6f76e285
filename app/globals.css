@@ -1,0 +1,11 @@
+:root {
+  --bg: #0b0e10;
+  --text: #e5e7eb;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+* { box-sizing: border-box; }
